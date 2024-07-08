@@ -1,4 +1,4 @@
-# DEEP LEARNING NEURAL NETWORK MODEL
+## DEEP LEARNING NEURAL NETWORK MODEL
 
 ## Overview
 The purpose of this analysis is to create a neural network model to predict whether a grantee of the nonprofit foundation Alphabet Soup will be successful. I utilized a dataset with information on over 34,000 historical grantees. The model I created can help the foundation determine which investments have the greatest probability of favorable returns in the future with 73% accuracy.
